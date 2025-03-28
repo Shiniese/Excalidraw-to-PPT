@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.12-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
-For Chinese documentation, please visit: [中文文档](https://github.com/Shiniese/Excalidraw-to-PPT/blob/main/README_zh.md)
+<p align="center">English | <a href="./README_zh.md">中文</a> | <a href="./README_ja.md">日本語</a> | <a href="./README_kr.md">한국어</a><br></p>
 
 A Python tool that automates the process of converting Excalidraw (.excalidraw) files into PowerPoint presentations (PPT). It extracts embedded images from the `.excalidraw` file, saves them as PNGs, and organizes them into a neatly formatted PowerPoint slide.
 
