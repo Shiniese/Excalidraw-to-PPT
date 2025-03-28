@@ -2,8 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.12-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
-中文文档请访问：[中文文档](#chinese-documentation)
-
 一个将 Excalidraw (.excalidraw) 文件转换为 PowerPoint（PPT）演示文稿的 Python 工具。它从 `.excalidraw` 文件中提取嵌入的图像，将其保存为 PNG 格式，并组织到整齐排版的 PowerPoint 幻灯片中。
 
 ---
